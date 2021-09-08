@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuz",
+  "version": "1.0.0",
+  "description": "Fizzbuzz coding exercise",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch",
+    "coverage": "jest --collect-coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hermco/fizzbuzz-me.git"
+  },
+  "author": "Corentin Hermet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hermco/fizzbuzz-me/issues"
+  },
+  "homepage": "https://github.com/hermco/fizzbuzz-me#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
